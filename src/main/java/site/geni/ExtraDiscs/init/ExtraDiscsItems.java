@@ -53,7 +53,7 @@ public class ExtraDiscsItems {
 	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
 	public static class RegistryEvents {
 		@SubscribeEvent
-		public static void onSoundEventRegistry(final RegistryEvent.Register<Item> event) {
+		public static void onItemRegistry(final RegistryEvent.Register<Item> event) {
 			for (ExtraDiscsMusicDiscItem musicDiscItem : ITEMS) {
 				event.getRegistry().register(musicDiscItem);
 			}

@@ -34,6 +34,7 @@ public class ExtraDiscsSoundEvents {
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_MOOG_CITY_2 = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.moog_city_2"));
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_BEGINNING_2 = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.beginning_2"));
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_FLOATING_TREES = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.floating_trees"));
+	public static final ExtraDiscsSoundEvent MUSIC_DISC_CHRYSOPOEIA = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.chrysopoeia"));
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_CONCRETE_HALLS = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.concrete_halls"));
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_DEAD_VOXEL = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.dead_voxel"));
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_WARMTH = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.warmth"));

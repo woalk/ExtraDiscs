@@ -36,6 +36,7 @@ public class ExtraDiscsItems {
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_MOOG_CITY_2 = new ExtraDiscsMusicDiscItem("music_disc_moog_city_2", 29, ExtraDiscsSoundEvents.MUSIC_DISC_MOOG_CITY_2, PROPERTIES);
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_BEGINNING_2 = new ExtraDiscsMusicDiscItem("music_disc_beginning_2", 30, ExtraDiscsSoundEvents.MUSIC_DISC_BEGINNING_2, PROPERTIES);
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_FLOATING_TREES = new ExtraDiscsMusicDiscItem("music_disc_floating_trees", 31, ExtraDiscsSoundEvents.MUSIC_DISC_FLOATING_TREES, PROPERTIES);
+	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_CHRYSOPOEIA = new ExtraDiscsMusicDiscItem("music_disc_chrysopoeia", 32, ExtraDiscsSoundEvents.MUSIC_DISC_CHRYSOPOEIA, PROPERTIES);
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_CONCRETE_HALLS = new ExtraDiscsMusicDiscItem("music_disc_concrete_halls", 32, ExtraDiscsSoundEvents.MUSIC_DISC_CONCRETE_HALLS, PROPERTIES);
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_DEAD_VOXEL = new ExtraDiscsMusicDiscItem("music_disc_dead_voxel", 33, ExtraDiscsSoundEvents.MUSIC_DISC_DEAD_VOXEL, PROPERTIES);
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_WARMTH = new ExtraDiscsMusicDiscItem("music_disc_warmth", 34, ExtraDiscsSoundEvents.MUSIC_DISC_WARMTH, PROPERTIES);

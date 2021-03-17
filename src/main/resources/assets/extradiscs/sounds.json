@@ -176,6 +176,15 @@
 				]
 		},
 
+		"music_disc.chrysopoeia": {
+				"category": "record",
+				"sounds": [
+						{
+								"name": "music/game/nether/crimson_forest/chrysopoeia",
+								"stream": true
+						}
+				]
+		},
 		"music_disc.concrete_halls": {
 				"category": "record",
 				"sounds": [

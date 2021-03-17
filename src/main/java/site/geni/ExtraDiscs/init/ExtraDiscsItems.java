@@ -41,6 +41,8 @@ public class ExtraDiscsItems {
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_DEAD_VOXEL = new ExtraDiscsMusicDiscItem("music_disc_dead_voxel", 33, ExtraDiscsSoundEvents.MUSIC_DISC_DEAD_VOXEL, PROPERTIES);
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_WARMTH = new ExtraDiscsMusicDiscItem("music_disc_warmth", 34, ExtraDiscsSoundEvents.MUSIC_DISC_WARMTH, PROPERTIES);
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_BALLAD_OF_THE_CATS = new ExtraDiscsMusicDiscItem("music_disc_ballad_of_the_cats", 35, ExtraDiscsSoundEvents.MUSIC_DISC_BALLAD_OF_THE_CATS, PROPERTIES);
+	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_RUBEDO = new ExtraDiscsMusicDiscItem("music_disc_rubedo", 32, ExtraDiscsSoundEvents.MUSIC_DISC_RUBEDO, PROPERTIES);
+	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_SO_BELOW = new ExtraDiscsMusicDiscItem("music_disc_so_below", 32, ExtraDiscsSoundEvents.MUSIC_DISC_SO_BELOW, PROPERTIES);
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_KEY = new ExtraDiscsMusicDiscItem("music_disc_key", 36, ExtraDiscsSoundEvents.MUSIC_DISC_KEY, PROPERTIES);
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_OXYGENE = new ExtraDiscsMusicDiscItem("music_disc_oxygene", 37, ExtraDiscsSoundEvents.MUSIC_DISC_OXYGENE, PROPERTIES);
 	public static final ExtraDiscsMusicDiscItem MUSIC_DISC_DRY_HANDS = new ExtraDiscsMusicDiscItem("music_disc_dry_hands", 38, ExtraDiscsSoundEvents.MUSIC_DISC_DRY_HANDS, PROPERTIES);

@@ -221,6 +221,24 @@
 						}
 				]
 		},
+		"music_disc.rubedo": {
+				"category": "record",
+				"sounds": [
+						{
+								"name": "music/game/nether/nether_wastes/rubedo",
+								"stream": true
+						}
+				]
+		},
+		"music_disc.so_below": {
+				"category": "record",
+				"sounds": [
+						{
+								"name": "music/game/nether/soulsand_valley/so_below",
+								"stream": true
+						}
+				]
+		},
 
 		"music_disc.key": {
 				"category": "record",

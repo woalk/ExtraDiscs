@@ -39,6 +39,8 @@ public class ExtraDiscsSoundEvents {
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_DEAD_VOXEL = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.dead_voxel"));
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_WARMTH = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.warmth"));
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_BALLAD_OF_THE_CATS = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.ballad_of_the_cats"));
+	public static final ExtraDiscsSoundEvent MUSIC_DISC_RUBEDO = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.rubedo"));
+	public static final ExtraDiscsSoundEvent MUSIC_DISC_SO_BELOW = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.so_below"));
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_KEY = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.key"));
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_OXYGENE = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.oxygene"));
 	public static final ExtraDiscsSoundEvent MUSIC_DISC_DRY_HANDS = new ExtraDiscsSoundEvent(new ResourceLocation(ExtraDiscs.MODID, "music_disc.dry_hands"));
